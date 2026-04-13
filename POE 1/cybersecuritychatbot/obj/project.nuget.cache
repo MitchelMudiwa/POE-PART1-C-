@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1GiC4fGg0l8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\OneDrive\\Desktop\\POE 1\\cybersecuritychatbot\\cybersecuritychatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
